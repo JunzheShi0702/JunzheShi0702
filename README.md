@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junzheshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/junzheshi)
 [![Email](https://img.shields.io/badge/Email-jshi70%40jh.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jshi70@jh.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/junzheshi)
+[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/junzheshi0702)
 
 </div>
 
