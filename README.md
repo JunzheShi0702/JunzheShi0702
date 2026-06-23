@@ -1,196 +1,275 @@
 <div align="center">
 
-# Junzhe Shi
+# Hi, I'm Junzhe Shi
 
-### Computer Science + Applied Mathematics & Statistics @ Johns Hopkins University
+### CS + Applied Math & Stats @ Johns Hopkins University
 
-**Building AI-assisted systems, research tools, and computational workflows.**
+I build AI-assisted systems, research tools, and computational workflows.
 
-`AI Systems` · `Human-AI Collaboration` · `Healthcare AI` · `Full-Stack Engineering` · `Computational Research`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-junzheshi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/junzheshi)
-[![Email](https://img.shields.io/badge/Email-jshi70%40jh.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jshi70@jh.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/junzheshi0702)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-junzheshi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/junzheshi)
+[![Email](https://img.shields.io/badge/Email-jshi70%40jh.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jshi70@jh.edu)
+[![Resume](https://img.shields.io/badge/Resume-PDF-111111?style=for-the-badge&logo=readme&logoColor=white)](INSERT_RESUME_LINK)
 
 </div>
 
 ---
 
-## About
+## What I'm focused on
 
-I'm an undergraduate student at **Johns Hopkins University**, studying **Computer Science** and **Applied Mathematics & Statistics**.
-
-My work sits between **software engineering, AI-assisted workflows, and research-oriented computing**. I like building systems that connect messy real-world information with usable interfaces, structured workflows, and decision support.
-
-My background includes full-stack AI applications, document-revision workflows, healthcare research support, and earlier computational research in **materials science, subatomic physics, and exoplanet light-curve modeling**.
-
----
-
-## Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### AI + Software Systems
-
-- AI-assisted course search and schedule planning
-- LLM-supported advising and recommendation workflows
-- Human-in-the-loop document editing and review
-- Structured interfaces for complex decision tasks
-
-</td>
-<td width="50%" valign="top">
-
-### Research + Healthcare AI
-
-- Clinical-AI literature review and synthesis
-- EHR cohort study planning support
-- Evidence quality, patient safety, and AI governance
-- Research workflow automation
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Atlas
-
-AI-assisted JHU course-search and schedule-planning platform.
-
-- Built personalized schedule-building workflows across a React frontend and Node.js/Express backend
-- Connected user preferences, course data, and LLM-assisted advising
-- Integrated PostgreSQL, pgvector, and OpenAI-powered tooling for course discovery and recommendations
-
-**Stack:** React · Node.js · Express · PostgreSQL · pgvector · OpenAI
-
-</td>
-<td width="50%" valign="top">
-
-### PDR AI / LaunchStack
-
-Human-AI collaborative document-revision workflow.
-
-- Built multi-step rewrite workflows with file import, preview, diff review, regeneration, and stepwise acceptance of AI edits
-- Added rewrite-state persistence and workspace handoff
-- Integrated DOCX redlining through a validated legal-editor route and tests
-
-**Stack:** Next.js · TypeScript · LLM Workflows · DOCX Review
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ReferMe
-
-Full-stack referral platform developed during internship at EchoplusAI.
-
-- Supported registration, login, referral provider profiles, and profile management
-- Built responsive frontend pages with Angular and Angular Material
-- Designed Node.js / Express backend services for authentication and post workflows
-
-**Stack:** Angular · TypeScript · Node.js · Express
-
-</td>
-<td width="50%" valign="top">
-
-### Go Microservices
-
-Backend microservice project developed during internship at EchoplusAI.
-
-- Built broker and logging services in Go
-- Used Docker and Kubernetes for deployment
-- Automated service operations with Makefile-based workflows
-
-**Stack:** Go · Docker · Kubernetes · Makefile
-
-</td>
-</tr>
-</table>
-
----
-
-## Research Journey
+I am an undergraduate student at Johns Hopkins University studying Computer Science and Applied Mathematics & Statistics. My work sits between **AI systems**, **software engineering**, and **research workflows**: building tools that help people search, revise, plan, analyze, and make decisions.
 
 ```text
-2021–2022  Subatomic physics simulation
-           ROOT · Ubuntu Linux · Glauber Monte Carlo · Pb-Pb collision analysis
-
-2022–2023  Exoplanet transit modeling
-           Lightkurve · NumPy · Matplotlib · TESS light curves
-
-2023–2024  Perovskite solar cell research
-           PVSC fabrication/testing workflows · literature synthesis · manuscript contribution
-
-2026–Now   Healthcare AI research support
-           Clinical-AI literature synthesis · EHR cohort study planning · AI safety/governance review
+Research background        Engineering direction        Current direction
+Astronomy / Physics   →    AI-assisted systems     →    Healthcare AI + research tools
+Materials Science     →    Full-stack platforms    →    Human-AI collaboration
 ```
 
 ---
 
-## Publications & Research Writing
+## Featured work
 
-- **Trap Engineering Using Oxygen-Doped Graphitic Carbon Nitride for High-Performance Perovskite Solar Cells**  
-  *Materials Chemistry C*, 2023. DOI: `10.1039/D3TC01711G`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Optimization of Asymmetry of Pb-Pb Nucleus Collision Based on Glauber Model Simulation**  
-  *Theoretical and Natural Science*, 2023. DOI: `10.54254/2753-8818/28/20230428`
+<h3>🧭 Atlas</h3>
 
-- **The Relationship Between and Eccentricities Based on Glauber Model**  
-  *Theoretical and Natural Science*, 2023. DOI: `10.54254/2753-8818/11/20230390`
+<b>AI-assisted course search & schedule planning</b>
 
-- **Hyperbolic-Tangent-Function-Modeled Transit Light Curve and Planet Radius Calculation**  
-  *Theoretical and Natural Science*, 2023. DOI: `10.54254/2753-8818/34/20240704`
+<br><br>
+
+Atlas is a JHU course-search and schedule-planning platform built to connect course data, user preferences, scheduling constraints, and LLM-assisted advising into one planning workflow.
+
+<br>
+
+<b>What I worked on</b>
+
+<ul>
+<li>Personalized schedule-building workflows</li>
+<li>React frontend + Node.js / Express backend integration</li>
+<li>Course discovery and recommendation tooling</li>
+<li>PostgreSQL, pgvector, and OpenAI-powered search support</li>
+</ul>
+
+<b>Links</b>
+
+<a href="INSERT_ATLAS_DEPLOY_LINK">
+  <img src="https://img.shields.io/badge/Live_Demo-Visit-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="INSERT_ATLAS_CODE_SAMPLE_LINK">
+  <img src="https://img.shields.io/badge/Code_Sample-View-0969da?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>pgvector</code> <code>OpenAI</code>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✍️ PDR AI / LaunchStack</h3>
+
+<b>Human-AI collaborative document revision</b>
+
+<br><br>
+
+PDR AI / LaunchStack explores document revision as a structured human-AI workflow rather than a one-shot generation task, supporting file import, preview, diff review, regeneration, and stepwise acceptance of edits.
+
+<br>
+
+<b>What I worked on</b>
+
+<ul>
+<li>Multi-step document rewrite workflow in Next.js and TypeScript</li>
+<li>Rewrite-state persistence across revision steps</li>
+<li>Preview, diff review, regeneration, and acceptance flow</li>
+<li>DOCX redlining through a validated legal-editor API route and tests</li>
+</ul>
+
+<b>Links</b>
+
+<a href="INSERT_PDR_REPO_LINK">
+  <img src="https://img.shields.io/badge/Repository-View-0969da?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<code>Next.js</code> <code>TypeScript</code> <code>LLMs</code> <code>DOCX</code> <code>Diff Review</code> <code>Human-AI Workflow</code>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technical Stack
+## Research & writing
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Perovskite Solar Cells
+
+**Materials science research**
+
+Co-authored a research paper and review article related to oxygen-doped graphitic carbon nitride and high-performance perovskite solar cells.
+
+**Publication**  
+*Materials Chemistry C*, 2023  
+DOI: `10.1039/D3TC01711G`
+
+`Materials Science` `Experimental Research` `Scientific Writing`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌌 Exoplanet Transit Modeling
+
+**Astronomy / computational modeling**
+
+Used Lightkurve, Matplotlib, and NumPy to analyze TESS luminosity curves and model planet-star radius ratios for WASP exoplanet detections.
+
+**Publication**  
+*Theoretical and Natural Science*, 2023  
+DOI: `10.54254/2753-8818/34/20240704`
+
+`Astronomy` `Python` `Lightkurve` `Data Analysis`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚛️ Subatomic Physics Modeling
+
+**Glauber Monte Carlo simulation**
+
+Used ROOT on Ubuntu Linux and Glauber-Monte-Carlo modeling to analyze Pb-Pb nucleus collision asymmetry across harmonic levels.
+
+**Publications**  
+*Theoretical and Natural Science*, 2023  
+DOI: `10.54254/2753-8818/28/20230428`  
+DOI: `10.54254/2753-8818/11/20230390`
+
+`ROOT` `Ubuntu Linux` `Simulation` `Quantitative Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 Healthcare AI Research Support
+
+**Clinical-AI literature synthesis**
+
+Research assistant work in the Data Science for Psychiatry Lab, supporting a REACH-based EHR cohort study on thyroid hormone prescribing in psychiatric settings through clinical-AI and medical literature review.
+
+`Healthcare AI` `EHR Cohort Study Support` `Literature Review` `Research Planning`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Additional engineering
+
+<details>
+<summary><b>🤝 ReferMe — full-stack referral platform</b></summary>
+
+<br>
+
+Developed a full-stack referral and networking application during my EchoplusAI internship, supporting registration, login, profile submission, referral-provider profiles, and profile management workflows.
+
+**Impact:** used by 200+ referral providers and saved the education institute $2,080 in administrative costs.
+
+`Angular` `Angular Material` `Node.js` `Express.js` `MongoDB` `Cloudinary`
+
+</details>
+
+<details>
+<summary><b>⚙️ Golang microservices</b></summary>
+
+<br>
+
+Created Go microservices including a broker service for API routing and a logging service for centralized data tracking. Deployed with Docker and Kubernetes and automated operations with a Makefile.
+
+`Go` `Docker` `Kubernetes` `Microservices` `Makefile`
+
+</details>
+
+---
+
+## Technical stack
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Languages**
+
+Python  
+TypeScript  
+JavaScript  
+Java  
+Go  
+C/C++  
+SQL
+
+</td>
+<td width="25%" valign="top">
+
+**Frontend**
+
+React  
+Next.js  
+Angular  
+Angular Material  
+Tailwind CSS
+
+</td>
+<td width="25%" valign="top">
+
+**Backend / Data**
+
+Node.js  
+Express.js  
+PostgreSQL  
+pgvector  
+MongoDB  
+SQLite
+
+</td>
+<td width="25%" valign="top">
+
+**Tools**
+
+Git & GitHub  
+Docker  
+Kubernetes  
+Linux  
+VS Code  
+GDB
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current interests
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Systems-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Human--AI_Collaboration-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Healthcare_AI-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Information_Extraction-111111?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research_Engineering-111111?style=flat-square" />
+</p>
+
+---
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
-</div>
-
----
-
-## What I'm Looking For
-
-I'm interested in research and engineering opportunities around:
-
-- AI-assisted software systems
-- NLP and information extraction
-- Healthcare AI and clinical research tooling
-- Human-AI collaboration
-- Research infrastructure and workflow automation
-
----
-
-<div align="center">
-
-**Less noise, more signal — building tools that help people reason through complex information.**
+**Atlas and PDR AI are the two projects I currently want visitors to notice first.**  
+Research and publications show where my technical interests came from; engineering projects show how I build.
 
 </div>
