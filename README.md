@@ -126,8 +126,6 @@ Broker and logging services deployed with Docker and Kubernetes.
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunzheShi0702&layout=compact&theme=github_dark&hide_border=true&langs_count=6)](https://github.com/JunzheShi0702)
-
 Research → Systems → Real-world Impact
 
 </div>
