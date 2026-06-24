@@ -55,7 +55,7 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
 
 ## Featured Projects
 
-<table width="100%" cellspacing="16" cellpadding="0" border="0">
+<table width="100%" cellspacing="16" cellpadding="12" border="0">
   <tr>
     <td width="50%" valign="top">
       <a href="https://team-02-nire.onrender.com/"><img src="./assets/atlas-home.png" width="100%" alt="Atlas" /></a>
