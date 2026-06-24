@@ -31,8 +31,8 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
 - Methods in active use: SQL cohort analysis, LLM-assisted clinical-note parsing, and structured literature synthesis.
 - Technical direction: reliable reasoning, retrieval-grounded workflows, and decision-support evaluation.
 - Research trajectory: PhD-oriented path focused on trustworthy AI/ML for high-stakes settings.
-- Lab: [Adams Lab @ Johns Hopkins](https://adamlab.org) — advised by Roy Adams.
-- Status: actively seeking PhD positions for Fall 2027.
+- Lab: Adams Lab @ Johns Hopkins — advised by Roy Adams.
+- Status: actively seeking PhD positions for Fall 2028.
 
 ## Research Portfolio
 
