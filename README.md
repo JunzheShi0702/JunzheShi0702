@@ -59,7 +59,6 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
   <tr>
     <td width="50%" valign="top">
       <a href="https://team-02-nire.onrender.com/"><img src="./assets/atlas-home.svg" width="100%" alt="Atlas" /></a>
-      <h3>Atlas - AI-Assisted Academic Planning</h3>
       <p><b>Problem:</b> Academic planning requires balancing constraints, preferences, and long-term degree requirements.</p>
       <p><b>Approach:</b> Built a retrieval and planning workflow that combines course data, user preferences, and LLM-assisted advising.</p>
       <p><b>Why it matters:</b> Helped frame recommendation quality as a reasoning problem under constraints rather than a one-shot generation task.</p>
@@ -68,7 +67,6 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
     </td>
     <td width="50%" valign="top">
       <a href="https://www.pdrai.online/"><img src="./assets/pdr-home.svg" width="100%" alt="PDR AI" /></a>
-      <h3>PDR AI / LaunchStack - Human-AI Revision</h3>
       <p><b>Problem:</b> One-shot rewriting gives users limited control over edits.</p>
       <p><b>Approach:</b> Built an iterative rewrite loop with state tracking and diff review.</p>
       <p><b>Why it matters:</b> Strengthened transparent human oversight in document workflows.</p>
