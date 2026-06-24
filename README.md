@@ -63,9 +63,9 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
           <td bgcolor="#0b1420" style="border-radius: 14px; overflow: hidden; border: 1px solid #253347;">
             <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tr>
-                <td>
+                <td align="center" style="padding: 12px 12px 8px 12px;">
                   <a href="https://team-02-nire.onrender.com/">
-                    <img src="./assets/atlas-home.png" alt="Atlas brand banner" width="100%" />
+                    <img src="./assets/atlas-home.png" alt="Atlas brand banner" width="88%" />
                   </a>
                 </td>
               </tr>
@@ -103,9 +103,9 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
           <td bgcolor="#0b1420" style="border-radius: 14px; overflow: hidden; border: 1px solid #253347;">
             <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tr>
-                <td>
+                <td align="center" style="padding: 12px 12px 8px 12px;">
                   <a href="https://www.pdrai.online/">
-                    <img src="./assets/pdr-home.png" alt="PDR AI brand banner" width="100%" />
+                    <img src="./assets/pdr-home.png" alt="PDR AI brand banner" width="88%" />
                   </a>
                 </td>
               </tr>
