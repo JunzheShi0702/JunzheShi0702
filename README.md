@@ -55,17 +55,17 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
 
 ## Featured Project Cards
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0" style="table-layout: fixed; border-collapse: separate; border-spacing: 12px 0;">
   <tr>
-    <td width="49%" valign="top">
-      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <td width="50%" valign="top" style="padding: 0;">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" style="table-layout: fixed;">
         <tr>
           <td bgcolor="#0b1420" style="border-radius: 14px; overflow: hidden; border: 1px solid #253347;">
             <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tr>
                 <td align="center" style="padding: 12px 12px 8px 12px;">
                   <a href="https://team-02-nire.onrender.com/">
-                    <img src="./assets/atlas-home.png" alt="Atlas brand banner" width="88%" />
+                    <img src="./assets/atlas-home.png" alt="Atlas brand banner" width="88%" style="display: block; margin: 0 auto;" />
                   </a>
                 </td>
               </tr>
@@ -96,16 +96,15 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
         </tr>
       </table>
     </td>
-    <td width="2%"></td>
-    <td width="49%" valign="top">
-      <table width="100%" cellspacing="0" cellpadding="0" border="0">
+    <td width="50%" valign="top" style="padding: 0;">
+      <table width="100%" cellspacing="0" cellpadding="0" border="0" style="table-layout: fixed;">
         <tr>
           <td bgcolor="#0b1420" style="border-radius: 14px; overflow: hidden; border: 1px solid #253347;">
             <table width="100%" cellspacing="0" cellpadding="0" border="0">
               <tr>
                 <td align="center" style="padding: 12px 12px 8px 12px;">
                   <a href="https://www.pdrai.online/">
-                    <img src="./assets/pdr-home.png" alt="PDR AI brand banner" width="88%" />
+                    <img src="./assets/pdr-home.png" alt="PDR AI brand banner" width="88%" style="display: block; margin: 0 auto;" />
                   </a>
                 </td>
               </tr>
