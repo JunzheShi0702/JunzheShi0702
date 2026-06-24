@@ -57,11 +57,23 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
 
 <table width="100%" cellspacing="16" cellpadding="0" border="0">
   <tr>
-    <td width="50%" align="center">
-      <img src="./assets/atlas-card.svg" alt="Atlas - AI-Assisted Academic Planning" width="100%" />
+    <td width="50%" valign="top">
+      <a href="https://team-02-nire.onrender.com/"><img src="./assets/atlas-home.svg" width="100%" alt="Atlas" /></a>
+      <h3>Atlas - AI-Assisted Academic Planning</h3>
+      <p><b>Problem:</b> Academic planning requires balancing constraints, preferences, and long-term degree requirements.</p>
+      <p><b>Approach:</b> Built a retrieval and planning workflow that combines course data, user preferences, and LLM-assisted advising.</p>
+      <p><b>Why it matters:</b> Helped frame recommendation quality as a reasoning problem under constraints rather than a one-shot generation task.</p>
+      <p><a href="https://team-02-nire.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-4ade80?style=for-the-badge" /></a></p>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>pgvector</code> <code>OpenAI</code></p>
     </td>
-    <td width="50%" align="center">
-      <img src="./assets/pdr-card.svg" alt="PDR AI / LaunchStack - Human-AI Revision" width="100%" />
+    <td width="50%" valign="top">
+      <a href="https://www.pdrai.online/"><img src="./assets/pdr-home.svg" width="100%" alt="PDR AI" /></a>
+      <h3>PDR AI / LaunchStack - Human-AI Revision</h3>
+      <p><b>Problem:</b> One-shot rewriting gives users limited control over edits.</p>
+      <p><b>Approach:</b> Built an iterative rewrite loop with state tracking and diff review.</p>
+      <p><b>Why it matters:</b> Strengthened transparent human oversight in document workflows.</p>
+      <p><a href="https://www.pdrai.online/"><img src="https://img.shields.io/badge/Live%20Platform-Visit-4ade80?style=for-the-badge" /></a> <a href="https://github.com/Deodat-Lawson/LaunchStack"><img src="https://img.shields.io/badge/Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>LLMs</code> <code>DOCX</code> <code>Workflow Design</code></p>
     </td>
   </tr>
 </table>
