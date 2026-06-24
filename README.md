@@ -55,9 +55,9 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
 
 ## Featured Project Cards
 
-<table width="100%" cellspacing="10" cellpadding="14" border="0">
+<table width="100%" cellspacing="20" cellpadding="0" border="0">
   <tr>
-    <td width="50%" valign="top" bgcolor="#0b1420" align="left">
+    <td width="50%" valign="top" align="left">
       <a href="https://team-02-nire.onrender.com/">
         <img src="./assets/atlas-home.png" alt="Atlas brand banner" width="100%" />
       </a>
@@ -68,7 +68,7 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
       <p><a href="https://team-02-nire.onrender.com/">Live Demo</a></p>
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>pgvector</code> <code>OpenAI</code></p>
     </td>
-    <td width="50%" valign="top" bgcolor="#0b1420" align="left">
+    <td width="50%" valign="top" align="left">
       <a href="https://www.pdrai.online/">
         <img src="./assets/pdr-home.png" alt="PDR AI brand banner" width="100%" />
       </a>
