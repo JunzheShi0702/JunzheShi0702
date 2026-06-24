@@ -59,11 +59,11 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
 <table width="100%" cellspacing="16" cellpadding="0" border="0">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://team-02-nire.onrender.com/"><img src="./assets/atlas-home.svg" width="100%" alt="Atlas" /></a>
+      <a href="https://team-02-frontend.onrender.com/"><img src="./assets/atlas-home.svg" width="100%" alt="Atlas" /></a>
       <p><b>Problem:</b> Academic planning requires balancing constraints, preferences, and long-term degree requirements.</p>
       <p><b>Approach:</b> Built a retrieval and planning workflow that combines course data, user preferences, and LLM-assisted advising.</p>
       <p><b>Why it matters:</b> Helped frame recommendation quality as a reasoning problem under constraints rather than a one-shot generation task.</p>
-      <p><a href="https://team-02-nire.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-4ade80?style=for-the-badge" /></a></p>
+      <p><a href="https://team-02-frontend.onrender.com/"><img src="https://img.shields.io/badge/Live%20Demo-Visit-4ade80?style=for-the-badge" /></a></p>
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>pgvector</code> <code>OpenAI</code></p>
     </td>
     <td width="50%" valign="top">
