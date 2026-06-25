@@ -67,11 +67,11 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
       <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>pgvector</code> <code>OpenAI</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://www.pdrai.online/"><img src="./assets/pdr-home.svg" width="100%" alt="PDR AI" /></a>
+      <a href="https://launch-stack-web.vercel.app/"><img src="./assets/pdr-home.svg" width="100%" alt="PDR AI" /></a>
       <p><b>Problem:</b> One-shot rewriting gives users limited control over edits.</p>
       <p><b>Approach:</b> Built an iterative rewrite loop with state tracking and diff review.</p>
       <p><b>Why it matters:</b> Strengthened transparent human oversight in document workflows.</p>
-      <p><a href="https://www.pdrai.online/"><img src="https://img.shields.io/badge/Live%20Platform-Visit-4ade80?style=for-the-badge" /></a> <a href="https://github.com/Deodat-Lawson/LaunchStack"><img src="https://img.shields.io/badge/Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+      <p><a href="https://launch-stack-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20Platform-Visit-4ade80?style=for-the-badge" /></a> <a href="https://github.com/Deodat-Lawson/LaunchStack"><img src="https://img.shields.io/badge/Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>LLMs</code> <code>DOCX</code> <code>Workflow Design</code></p>
     </td>
   </tr>
