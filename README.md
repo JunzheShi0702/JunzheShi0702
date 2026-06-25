@@ -71,7 +71,7 @@ My research focuses on building trustworthy AI/ML systems for real-world decisio
       <p><b>Problem:</b> One-shot rewriting gives users limited control over edits.</p>
       <p><b>Approach:</b> Built an iterative rewrite loop with state tracking and diff review.</p>
       <p><b>Why it matters:</b> Strengthened transparent human oversight in document workflows.</p>
-      <p><a href="https://launch-stack-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20Platform-Visit-4ade80?style=for-the-badge" /></a> <a href="https://github.com/Deodat-Lawson/LaunchStack"><img src="https://img.shields.io/badge/Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+      <p><a href="https://launch-stack-web.vercel.app/"><img src="https://img.shields.io/badge/Live%20Platform-Visit-4ade80?style=for-the-badge" /></a> <a href="https://github.com/JunzheShi0702/LaunchStack"><img src="https://img.shields.io/badge/Repository-GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a></p>
       <p><code>Next.js</code> <code>TypeScript</code> <code>LLMs</code> <code>DOCX</code> <code>Workflow Design</code></p>
     </td>
   </tr>
